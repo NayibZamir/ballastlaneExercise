@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  sql-server:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Aa123456!"
+    ports:
+      - "1433:1433"
+  crudapi:
+    image: ${DOCKER_REGISTRY-}crudapi
+    build:
+      context: .
+      dockerfile: CrudApi/Dockerfile

@@ -1,0 +1,30 @@
+name: dockercompose5492984906270872351
+services:
+  crudapi:
+    build:
+      context: C:\Otros documentos\Proyectos\Ballast Lane\Crud
+      dockerfile: CrudApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: crudapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  sql-server:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Aa123456!
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose5492984906270872351_default

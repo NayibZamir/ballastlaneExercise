@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSlM3e/eMYeBnjsPO45XGECChmAdOlfv14ZlG+zf01b48EBDV7PRJnMyuPlQsKjQtIC2w9xuuUQNFCFz2f+gZg==",
+  "success": true,
+  "projectFilePath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\Crud.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U568807\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512"
+  ],
+  "logs": []
+}

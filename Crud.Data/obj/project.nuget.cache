@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8L0ep4cAUHlmICh7sR/Wo8vUvLJdL2dzP50NMrx63nWe+/W7Kpy9eRo+yNkWBfx5Rgwq0SKi6IsxdBYjlrisIA==",
+  "success": true,
+  "projectFilePath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U568807\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512"
+  ],
+  "logs": []
+}

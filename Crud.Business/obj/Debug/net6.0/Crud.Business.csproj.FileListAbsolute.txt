@@ -1,0 +1,15 @@
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\bin\Debug\net6.0\Crud.Business.deps.json
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\bin\Debug\net6.0\Crud.Business.dll
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\bin\Debug\net6.0\Crud.Business.pdb
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\bin\Debug\net6.0\Crud.Data.dll
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\bin\Debug\net6.0\Crud.Data.pdb
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.csproj.AssemblyReference.cache
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.AssemblyInfoInputs.cache
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.AssemblyInfo.cs
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.csproj.CoreCompileInputs.cache
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.csproj.CopyComplete
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.dll
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\refint\Crud.Business.dll
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\Crud.Business.pdb
+C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Business\obj\Debug\net6.0\ref\Crud.Business.dll

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\Crud.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\Crud.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\Crud.Business.csproj",
+        "projectName": "Crud.Business",
+        "projectPath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\Crud.Business.csproj",
+        "packagesPath": "C:\\Users\\U568807\\.nuget\\packages\\",
+        "outputPath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\U568807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexushub.k8s-dev.int.kaplan.edu/repository/nuget-hosted": {},
+          "https://pkgs.dev.azure.com/owens-illinois/_packaging/O-INuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj": {
+                "projectPath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj",
+        "projectName": "Crud.Data",
+        "projectPath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\Crud.Data.csproj",
+        "packagesPath": "C:\\Users\\U568807\\.nuget\\packages\\",
+        "outputPath": "C:\\Otros documentos\\Proyectos\\Ballast Lane\\repositorio\\Crud.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\U568807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexushub.k8s-dev.int.kaplan.edu/repository/nuget-hosted": {},
+          "https://pkgs.dev.azure.com/owens-illinois/_packaging/O-INuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
