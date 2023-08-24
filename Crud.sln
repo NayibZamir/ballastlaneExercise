@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi", "CrudApi\CrudApi.
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3C242684-D328-4A3E-A969-7AA6D004D98D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Data", "Crud.Data\Crud.Data.csproj", "{1D3EE0FA-4CBD-43F1-9AA9-144FE64D752A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud.Data", "Crud.Data\Crud.Data.csproj", "{1D3EE0FA-4CBD-43F1-9AA9-144FE64D752A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Business", "Crud.Business\Crud.Business.csproj", "{1BE68D70-B144-4912-8FDC-75708F4350CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud.Business", "Crud.Business\Crud.Business.csproj", "{1BE68D70-B144-4912-8FDC-75708F4350CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DataTests", "Crud.DataTests\Crud.DataTests.csproj", "{008A20E4-6359-47C7-B880-8C6B91BC26D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud.DataTests", "Crud.DataTests\Crud.DataTests.csproj", "{008A20E4-6359-47C7-B880-8C6B91BC26D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.BusinessTests", "Crud.BusinessTests\Crud.BusinessTests.csproj", "{CAE5DF99-0859-4C5F-8768-8BE63C369C8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud.BusinessTests", "Crud.BusinessTests\Crud.BusinessTests.csproj", "{CAE5DF99-0859-4C5F-8768-8BE63C369C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApiTests", "CrudApiTests\CrudApiTests.csproj", "{AA35F7C8-580B-4F76-8551-C556E149529B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CAE5DF99-0859-4C5F-8768-8BE63C369C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE5DF99-0859-4C5F-8768-8BE63C369C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE5DF99-0859-4C5F-8768-8BE63C369C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA35F7C8-580B-4F76-8551-C556E149529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA35F7C8-580B-4F76-8551-C556E149529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA35F7C8-580B-4F76-8551-C556E149529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA35F7C8-580B-4F76-8551-C556E149529B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

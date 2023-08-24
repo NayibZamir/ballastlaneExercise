@@ -10,3 +10,15 @@ C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Data\obj\Debug\net6.0\Crud.
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Data\obj\Debug\net6.0\refint\Crud.Data.dll
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Data\obj\Debug\net6.0\Crud.Data.pdb
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\Crud.Data\obj\Debug\net6.0\ref\Crud.Data.dll
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\bin\Debug\net6.0\Crud.Data.deps.json
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\bin\Debug\net6.0\Crud.Data.dll
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\bin\Debug\net6.0\Crud.Data.pdb
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.csproj.AssemblyReference.cache
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.AssemblyInfoInputs.cache
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.AssemblyInfo.cs
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.csproj.CoreCompileInputs.cache
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.dll
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\refint\Crud.Data.dll
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\Crud.Data.pdb
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\Crud.Data\obj\Debug\net6.0\ref\Crud.Data.dll

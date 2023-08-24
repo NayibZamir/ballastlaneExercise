@@ -25,3 +25,4 @@ C:\Otros documentos\Proyectos\Ballast Lane\Crud\bin\Debug\System.IdentityModel.T
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\bin\Debug\Microsoft.IdentityModel.Protocols.dll
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\bin\Debug\Microsoft.IdentityModel.Logging.dll
 C:\Otros documentos\Proyectos\Ballast Lane\Crud\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Otros documentos\Proyectos\Ballast Lane\repositorio\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

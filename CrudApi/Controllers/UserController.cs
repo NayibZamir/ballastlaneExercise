@@ -1,6 +1,5 @@
 ﻿using Crud.Business;
 using Crud.Business.Managers;
-using CrudApi.Identity;
 using Microsoft.AspNetCore.DataProtection.KeyManagement;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
